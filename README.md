@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DreadSoulYT
+- 👋 Hi, I’m @DreadSoulEdits
 - 👀 I’m interested in ...Coding C++ and Python.
 - 🌱 I’m currently learning ...C++ DSA.
 - 💞️ I’m looking to collaborate on ...projects.
