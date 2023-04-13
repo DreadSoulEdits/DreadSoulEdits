@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DreadSoulYT
-- 👀 I’m interested in ...Coding C++ and Python.
-- 🌱 I’m currently learning ...C++ DSA.
+- 👀 I’m interested in ...Web Dev and ML.
+- 🌱 I’m currently learning ...Java & Python.
 - 💞️ I’m looking to collaborate on ...projects.
 - 📫 How to reach me ...@dreadsouledits on Twitter
 
